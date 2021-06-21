@@ -2,7 +2,6 @@ p, label{
   font-family: 'gruppo', cursive;
   font-size: 2rem !important;
   line-height: 1.5;
-  text-align: justify;
 }
 
 h1,h2,h3,h5{
@@ -16,7 +15,6 @@ body{
 
 a{
   text-decoration: none !important;
-  color: white!important;
 }
 
 a:hover{
@@ -169,17 +167,22 @@ a:hover{
 .message-container{
   padding: 5% !important;
   margin-left: 5%;
+  margin-right: 5%;
 }
 
 .message-container-2{
   padding: 5%!important;
-  margin-left: 10% !important;
+  margin-left: 5% !important;
 }
 
 /* Linkedin */
 
 #Linkedin{
   align-self: center;
+}
+
+.linkedin-link{
+  color: white;!important;
 }
 
 .linkedin-profile{
@@ -203,6 +206,7 @@ a:hover{
 
 .contact-icon{
   margin: 2%;
+  color:  #198754;!important
 }
 
 .copyright{
